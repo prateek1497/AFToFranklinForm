@@ -1,0 +1,108 @@
+{
+    "adaptiveform": "0.11.0-Pre",
+    "metadata": {
+      "version": "1.0.0"
+    },
+    "items": [
+      {
+        "name": "Section-section",
+        "fieldType": "panel",
+        "items": []
+      },
+      {
+        "name": "REGISTRATION FORM",
+        "type": "plain-text",
+        "fieldType": "plain-text",
+        "value": "REGISTRATION FORM"
+      },
+      {
+        "name": "First Name",
+        "type": "string",
+        "fieldType": "text-input",
+        "label": {
+          "value": "First Name"
+        }
+      },
+      {
+        "name": "Last Name",
+        "type": "string",
+        "fieldType": "text-input",
+        "label": {
+          "value": "Last Name"
+        }
+      },
+      {
+        "name": "Email",
+        "type": "string",
+        "fieldType": "text-input",
+        "label": {
+          "value": "Email"
+        },
+        "pattern":  "^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$"
+      },
+      {
+        "name": "Phone Number",
+        "type": "number",
+        "fieldType": "text-input",
+        "label": {
+          "value": "Phone Number"
+        }
+      },
+      {
+        "name": "City Name",
+        "type": "string",
+        "fieldType": "drop-down",
+        "label": {
+          "value": "City Name"
+        }
+      },
+      {
+        "name": "Date of Birth",
+        "type": "string",
+        "fieldType": "date-input",
+        "label": {
+          "value": "Date of Birth"
+        }
+      },
+      {
+        "name": "Description",
+        "type": "string",
+        "fieldType": "multiline-input",
+        "label": {
+          "value": "Description"
+        }
+      },
+      {
+        "name": "Upload A File",
+        "type": "string",
+        "fieldType": "file-input",
+        "label": {
+          "value": "Upload A File"
+        }
+      },
+      {
+        "name": "Password",
+        "type": "string",
+        "fieldType": "text-input",
+        "label": {
+          "value": "Password"
+        }
+      },
+      {
+        "name": "Remember Me",
+        "type": "string",
+        "fieldType": "checkbox",
+        "label": {
+          "value": "Remember Me"
+        }
+      },
+      {
+        "name": "SIGN UP",
+        "type": "string",
+        "fieldType": "button",
+        "label": {
+          "value": "SIGN UP"
+        }
+      }
+    ]
+  }
