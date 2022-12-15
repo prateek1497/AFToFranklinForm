@@ -56,14 +56,7 @@
           "value": "City Name"
         }
       },
-      {
-        "name": "Date of Birth",
-        "type": "string",
-        "fieldType": "date-input",
-        "label": {
-          "value": "Date of Birth"
-        }
-      },
+     
       {
         "name": "Description",
         "type": "string",
@@ -72,14 +65,7 @@
           "value": "Description"
         }
       },
-      {
-        "name": "Upload A File",
-        "type": "string",
-        "fieldType": "file-input",
-        "label": {
-          "value": "Upload A File"
-        }
-      },
+    
       {
         "name": "Password",
         "type": "string",
@@ -88,14 +74,7 @@
           "value": "Password"
         }
       },
-      {
-        "name": "Remember Me",
-        "type": "string",
-        "fieldType": "checkbox",
-        "label": {
-          "value": "Remember Me"
-        }
-      },
+     
       {
         "name": "SIGN UP",
         "type": "string",
