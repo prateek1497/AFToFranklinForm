@@ -4,11 +4,7 @@
       "version": "1.0.0"
     },
     "items": [
-      {
-        "name": "Section-section",
-        "fieldType": "panel",
-        "items": []
-      },
+     
       {
         "name": "REGISTRATION FORM",
         "type": "plain-text",
@@ -65,6 +61,7 @@
           "value": "Description"
         }
       },
+      {"name":"Remember Me","type":"string","fieldType":"checkbox","label":{"value":"Remember Me"}},
     
       {
         "name": "Password",
